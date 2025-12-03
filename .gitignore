@@ -1,0 +1,9 @@
+/pid_identification_example_project/bin/Debug/*.dll
+/pid_identification_example_project/bin/Debug/*.pdb
+/pid_identification_example_project/obj/x86/Debug/*.pdb
+/pid_identification_example_project/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/pid_identification_example_project/obj/x86/Debug/pid_identification_example_project.csproj.FileListAbsolute.txt
+/pid_identification_example_project/obj/x86/Debug/pid_identification_example_project.csprojResolveAssemblyReference.cache
+/pid_identification_example_project/obj/x86/Debug/pid_identification_example_project.exe
+/pid_identification_example_project/bin/Debug/pid_identification_example_project.vshost.exe.manifest
+/pid_identification_example_project/bin/Debug/pid_identification_example_project.vshost.exe
